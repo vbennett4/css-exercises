@@ -1,1 +1,20 @@
-/* Add CSS Styling */
+.odd_numbered,
+.odd_numbered_cool {
+    background-color: rgb(216, 112, 147);
+    font-family: Verdana, "DejaVu Sans", sans-serif;
+}
+
+#blue_font {
+    color: #0000ff;
+    font-size: 36px;
+}
+
+.odd_numbered_cool,
+#green_background {
+    font-size: 24px;
+}
+
+#green_background {
+    background-color: hsl(84, 100%, 59%);
+    font-weight: bold;
+}
