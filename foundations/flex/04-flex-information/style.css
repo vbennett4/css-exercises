@@ -18,35 +18,19 @@ img {
 .items {
   display: flex;
   gap: 52px;
-}
-
-.barberry {
-  display: flex;
-  flex-wrap: wrap;
   justify-content: center;
-  min-width: 200px;
+  align-items: flex-start;
 }
 
-.chilli {
-  display: flex;
-  flex-wrap: wrap;
-  justify-content: center;
-  min-width: 200px;
-}
-
-.pepper {
-  display: flex;
-  flex-wrap: wrap;
-  justify-content: center;
-  min-width: 200px;
-  max-width: 200px;
-}
-
+.barberry,
+.chilli,
+.pepper,
 .saffron {
   display: flex;
   flex-wrap: wrap;
   justify-content: center;
   min-width: 200px;
+  max-width: 200px;
 }
 
 .text {
